@@ -1,0 +1,9 @@
+server:
+  port: 8056
+
+spring:
+  application:
+    name: cidi
+
+application:
+  version: "1.0.0"
